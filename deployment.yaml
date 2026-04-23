@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: flaskdemo
-        image: rajat091293/rajat:latest
+        image: adviak/test_devops:latest
         resources: {}
 
 ---
